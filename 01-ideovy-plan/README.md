@@ -56,4 +56,4 @@ Slunce zmizelo a svět zahalila temnota. Tovým úkolem je projít nebezpečnou 
 1. **Hypotéza 1 (Vyváženost bojového systému):**  
    * *Hypotéza:* Hráči budou v průměru využívat kombinaci meče a kouzel v poměru přibližně 60 % meč a 40 % magie, což potvrdí, že oba bojové prvky mají ve hře svůj význam.
 2. **Hypotéza 2 (Náročnost a hratelnost):**  
-   * *Hypotéza:* Alespoň 70 % hráčů dokáže dokončit první úroveň na 2. až 3. pokus bez toho, aby hru předčasně vypnuli kvůli vysoké obtížnosti.
+   * *Hypotéza:* Alespoň 80 % hráčů dokáže dokončit první úroveň na 2. až 3. pokus bez toho, aby hru předčasně vypnuli kvůli vysoké obtížnosti.
