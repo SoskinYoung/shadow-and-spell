@@ -45,12 +45,10 @@ Slunce zmizelo a svět zahalila temnota. Tovým úkolem je projít nebezpečnou 
 
 ## 5. Chystané použité technologie
 
-* **Herní engine:** Godot Engine / Unity 2D
-* **Programovací jazyk:** GDScript / C# / Python
-* **Grafika:** Aseprite / GIMP (úprava 2D spritů)
-* **Zvuky:** Audacity / BFXR
+* **Herní engine:** Godot
+* **Programovací jazyk:** GDScript
+* **Grafika:** GIMP
 * **Verzování:** Git a GitHub
-
 ---
 
 ## 6. Hypotézy k vyhodnocení po releasu
