@@ -27,7 +27,7 @@
 * Nepřátelé: Různé druhy potvor – od pozemních rytířů přes létající příšery až po finálního bosse na konci úrovně.
 
 ### Cíl hráče
-* Bezpečně proskákat a probojovat se celou úrovní, vyhnout se pastím, porazit bosse a dosáhnout co nejvyššího počtu bodů bez úmrtí.
+Slunce zmizelo a svět zahalila temnota. Tovým úkolem je projít nebezpečnou krajinou, porazit temného pána na konci cesty a vrátit světu zpět jeho světlo.
 
 ---
 
@@ -45,7 +45,7 @@
 
 ## 5. Chystané použité technologie
 
-* **Herní engine:** Godot Engine / Unity 2D (případně Pygame)
+* **Herní engine:** Godot Engine / Unity 2D
 * **Programovací jazyk:** GDScript / C# / Python
 * **Grafika:** Aseprite / GIMP (úprava 2D spritů)
 * **Zvuky:** Audacity / BFXR
