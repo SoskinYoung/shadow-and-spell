@@ -7,44 +7,55 @@
 ---
 
 ## 2. Marketingový úvodník
-> Přijmi výzvu, chop se meče a ovládni starodávnou magii!
-> Vstup do světa pohlceného temnotou, kde tvá chladná ocel a ohnivá kouzla představují poslední naději. Shadow & Spell je rychlá 2D plošinovka, která prověří tvé reflexy i taktické myšlení. Dokážeš proskákat nebezpečné propasti, odrazit zástupy nepřátel a porazit temná monstra?
+> *Chop se ostré oceli a ovládni starodávnou magii!*  
+> Vstup do světa pohlceného temnotou, kde ti k přežití nestačí jen rychlá čepel. **Shadow & Spell** je rychlá 2D plošinovka, ve které musíte kombinovat bleskové útoky mečem s ničivými kouzly. Proskákejte přes nebezpečné pasti, porazte zástupy nepřátel a ukažte svoje reflexy v boji proti temným monstrům!
 
 ---
 
 ## 3. Popis hry
 
 ### Principy a hratelnost
-* **Rychlá 2D akční plošinovka:** Pohyb zleva doprava, skákání po platformách a vyhýbání se pastím.
+* **Rychlá 2D akční plošinovka (Side-scroller):** Pohyb postavy zleva doprava s důrazem na přesné skákání po platformách a časování útoků.
 * **Kombinovaný bojový systém:** 
-  * **Meč:** Rychlé útoky na blízko a sekání nepřátel.
-  * **Kouzla:** Útoky na dálku (např. ohnivá koule), které spotřebovávají manii.
+  * **Sekání mečem:** Rychlé úderové kombá na blízko pro odrážení dotírajících nepřátel.
+  * **Magické útoky:** Útoky na dálku (ohnivé koule, blesky), které spotřebovávají manitovou energii.
 
 ### Funkce a možnosti
-* Pohyb postavy: Chůze, skok, dvojskok (double-jump) a uskočení (dash).
-* Ukazatel zdraví (HP) a magie (Mana).
-* Sběr lektvarů na doplnění života/magie a mincí.
-* Nepřátelé: Pozemní bojovníci, létající příšery a finální boss.
+* Pohyb hrdiny: Plynulá chůze, běh, skok, dvojskok (double-jump) a rychlé uskočení (dash).
+* Ukazatele: Životy (HP) a Mana pro sesílání kouzel.
+* Sběratelské předměty: Lektvary na doplnění zdraví/magie a mince pro zvyšování skóre.
+* Nepřátelé: Různé druhy potvor – od pozemních rytířů přes létající příšery až po finálního bosse na konci úrovně.
 
 ### Cíl hráče
-* Projít úrovně bez úmrtí, porazit nebezpečné překážky a bossy na konci cesty.
+* Bezpečně proskákat a probojovat se celou úrovní, vyhnout se pastím, porazit bosse a dosáhnout co nejvyššího počtu bodů bez úmrtí.
 
 ---
 
 ## 4. Popis audiovizuálu
-* **Grafika:** 2D Pixel Art s temnou fantasy atmosférou. Plynulé animace pohybu, sekání mečem a sesílání kouzel.
-* **Zvuky a hudba:** Temný soundtrack, efekty švihu meče, výbuchy kouzel a zvuky zásahů.
+
+* **Vizuální styl:** 
+  * 2D Pixel Art s temnou fantasy atmosférou (ponuré lesy, zříceniny a temné podzemí).
+  * Plynulé animace běhu, švihu mečem, sesílání kouzel a úderů.
+  * Částicové efekty (particles) při výbuchu magických střel a jiskření při zásahu mečem.
+* **Zvuková stránka:**
+  * **Hudba:** Atmosférický retro/fantasy soundtrack, který se zrychlí při boji s nepřáteli.
+  * **Zvukové efekty:** Reálné zvuky tasení a švihu meče, záblesky kouzel, zvuky dopadu po skoku a pokřiky postav.
 
 ---
 
 ## 5. Chystané použité technologie
-* **Herní engine:** Godot Engine / Unity 2D / Pygame
+
+* **Herní engine:** Godot Engine / Unity 2D (případně Pygame)
 * **Programovací jazyk:** GDScript / C# / Python
-* **Grafika:** Aseprite / GIMP
-* **Správa kódu:** Git a GitHub
+* **Grafika:** Aseprite / GIMP (úprava 2D spritů)
+* **Zvuky:** Audacity / BFXR
+* **Verzování:** Git a GitHub
 
 ---
 
 ## 6. Hypotézy k vyhodnocení po releasu
-1. **Hypotéza 1:** Hráči budou při průchodu hrou používat meč i kouzla vyváženě (přibližně 60 % meč a 40 % magie), aniž by spoléhali jen na jeden typ útoku.
-2. **Hypotéza 2:** Alespoň 70 % hráčů zvládne dokončit první úroveň na 2. až 3. pokus bez předčasného ukončení hry z důvodu vysoké obtížnosti.
+
+1. **Hypotéza 1 (Vyváženost bojového systému):**  
+   * *Hypotéza:* Hráči budou v průměru využívat kombinaci meče a kouzel v poměru přibližně 60 % meč a 40 % magie, což potvrdí, že oba bojové prvky mají ve hře svůj význam.
+2. **Hypotéza 2 (Náročnost a hratelnost):**  
+   * *Hypotéza:* Alespoň 70 % hráčů dokáže dokončit první úroveň na 2. až 3. pokus bez toho, aby hru předčasně vypnuli kvůli vysoké obtížnosti.
